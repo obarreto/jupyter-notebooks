@@ -1,0 +1,45 @@
+
+Dicionário de Dados
+
+    PassengerId: Número de identificação do passageiro
+    Survived: Informa se o passageiro sobreviveu ao desastre
+        0 = Não
+        1 = Sim
+    Pclass: Classe do bilhete
+        1 = 1ª Classe
+        2 = 2ª Classe
+        3 = 3ª Classe
+    Name: Nome do passageiro
+    Sex: Sexo do passageiro
+    Age: Idade do passageiro
+    SibSp: Quantidade de cônjuges e irmãos a bordo
+    Parch: Quantidade de pais e filhos a bordo
+    Ticket: Número da passagem
+    Fare: Preço da Passagem
+    Cabin: Número da cabine do passageiro
+    Embarked: Porto no qual o passageiro embarcou
+        C = Cherbourg
+        Q = Queenstown
+        S = Southampton
+
+Q1. Quais os tipos de cada variável?
+
+    Variáveis Numéricas
+        Discretas
+            Pclass
+            SibSp
+            Parch
+        Contínuas
+            Age
+            Fare
+        Alvo
+            Survived
+        Chave Primária
+            PassengerId
+    Variáveis Categóricas
+        Name
+        Sex
+        Ticket
+        Cabin
+        Embarked
+

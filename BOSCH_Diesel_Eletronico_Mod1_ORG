@@ -1,0 +1,66 @@
+Emissões de veículos a diesel
+O uso do diesel é especialmente crético pelos contaminantes que podem ser depositados no meio ambiente.
+Entre eles, se destacam o monóxido de carbono (CO), os óxidos de nitrogênio(NOx) eo particulado(PM)
+É necessário lembrar que a maior parte da frota automotiva pesada do mundo utiliza diesel como combustível, assim como a locomotivas, os barcos de médio e grande porte, máquinas de contrução, agrícolas, entre outros.
+A partir do Euro 3, ficou claro que os sistemas convencionais não possuíam tecnologia suficiente para atender a essas restrições de emissão.
+Na (Europa) atualmente. já nos encontramos na EURO 6c e a EURO6d é esperada para 2020. Isso nos leva a caminho para um maior controle de emis~oes e consumo.
+No Brasil estamos na norma EURO5 a previsão é para 2023 entrarmos nesta norma.
+Nesse sentido, foi necessário incluir a eletrônica e aprimorar o design desses sistemas para antender a essas demandas, tornando o uso do diesel muito mais limpo, sustentável e seguro. Isso combinado com o pós-tratamento de gases, a eletrificação de certos componetes do motor e as drásticas melhorias na eficiência de muitos sistemas veiculares, não apenas impulsionaram o desenvolvimento tecnologico do automovél, como também permitiram a continuação dessa valiosa indústria.
+
+Conheça o princípio de funcionamento do sistema EDC
+O controle eletrônico do motor a diesel foi o primeiro passo ou o
+início na migração dos sistemas de injeção de combustível diesel desde sua 
+concepção meramente mecânica até os sistemas modernos, muito mais eficientes.
+
+O controle eletônico do motor a diesel permite um configuração exata e diferenciada
+dos volumes de injeção, especiamente na transições de revoluções.
+
+Somente assim foi possível corresponder às muitas exigências impostas aos motores a diesel
+modernos, como a redução do comsumo de combustível e, ao mesmo tempo, aumento de potência/torque
+do motor, além de comodidade ao conduzir o veículo e mantendo as normas de emissões ao qual foi dimensionado.
+
+A regulação eletrônica de diesel (EDC - Eletronic Diesel Control) foi desenvolvida em reposta
+às crescentes exigências do sistema simples com o eixo atuador eletrônico para um complexo comando de motor eletrônico, capas de reunir inúmeros dados e processá-los em tempo real.
+
+Diferentemente dos veículos a diesel com bombas injetoras em linha ou distribuidoras convencionais, no sistema EDC o condutor não tem influência direta sobre o volume de combustível
+injetado, por exemplo, através do pedal do acelerador e um cabo.
+
+O volume de injeção é determinado por diversos fatores, como:
+* Solicitação de potência do condutor (posição do pedal do acelerador - Carga Solicitada);
+* Regime de funcionamento do motor(RPM);
+* Temperatura do motor;
+* Efeito sobre a emissão de contaminantes (relação Lambda);
+* Entre outros.
+
+ Bombas em linha com EDC
+ 
+ No caso das Bombas em linha com EDC, o controle da posição da cremalheira de regulação já
+ não é mecânico, mas é determinado pela ativação de uma bobina comandada por um ECU
+ Isso diminui eficientemente o consumo e emissões sem perda de potência.
+ 
+ Bombas distribuidoras com EDC
+ O mesmo aconteceu com as Bombas Distribuidoras, nas quais o controle do anel de débito é feito por um bobina comandada por uma ECU externa.
+ As bombas Distribuidoras de Pistão Axial/Radial com EDC representamra um avanço importante na melhoria técnica de injeção de combustível, ja que se conseguiu controlar não só o débito ou 
+ quantidade de injeção, como também o tempo no qual se injeta o mesmo.
+ Isso significa quantidade de injeção controlada eletronicamente e o avanço controlado por pressão/revoluções na câmara da bomba.
+ 
+ Outros sistemas de injeção a diesel
+ Sistema de Bomba Unitária - Unit Pump System(UPS)
+O UPS é um sistema robusto, diferente dos sistemas convencionais, pois contém uma unidade bomba 
+para cada cilindro. Cada bomba, encanamento de injeção e injetor estão conectados em uma estrutura modular. O sistema é capaz de analisar com a mesma precisão as condições do motor e do
+ambiente para proporcionar um o melhor momento de injeção. O eixo do comando de válculas(árvore cames ) aciona a bomba UPS, que através de um tubo de pressão, conexão de ligação chega ao injetor. São utilizados porta injetores mecânicos conhecidos como STH. O Sistema é ideal para motores com injeção centralizada.
+ Cada bomba possui una válvula eletromagnética que é controlada pela unidade de comando eletrônica do sistema(ECU), que determina a quantidade e o tempo de injeção - calculados com precisão para cada condição de rotação e carga, garantindo o melhor funcionamento do motor.
+
+Sistema de Unidade Injetora
+Unit Injection System(UIS)
+O sistema de Unidade Injetora integra a bomba de alta pressão eo injetor em uma unidade compacta para cada cilindro do motor. 
+O sistema UIS substitui o conjunto porta injetor dos sistemas convencionais, dispensando o uso dos encanamentos de alta pressão, o que possibilita alcançar elevados valores de pressão. Cada unidade injetora está instalada no Cabeçote do motor e realiza a injeção de combustível diretamente em cada cilindro. A injeção é controlada por meio de uma válvula eltromagnética de acionamento rápido, a sua vez controlada pela unidade de comando eletrônica (ECU). Esta determina o melhor momento e o volume adequado de combustivél que vai ser injetado para cada condição de funcionamento do motor, de acordo com as informações obtidas através dos diversos sensores instalados no motor. Isso proporciona um funcionamento eficiente e seguro, que inclui funções de diagnósticos do sistema.
+
+Sistema Common Rail 
+Common Rail System (CRS)
+O controle eletrônico do sistema de injeção representa hoje o maior passo no desenvolvimento dos Sistemas de Injeção Eletrônica para motores diesel. O moderno sistema Common Rail Bosh é a mais nova tecnologia empregada em sistemas de injeção eletrônica conseguindo pressões máximas de 2500 bar e a possibilidade de ter múltiplas injeções para um mesmo ciclo de trabalho do motor. isso significa várias pré-injeções, injeção principal dividida em partes e várias pós-injeções. Nesse sistema, a geração de pressão e a injeção de combustível estão separadas, o que significa que a bomba fornece a vazão de combustível e em conjunto com as respectivas restrições é gerada a alta pressão que está disponível para todos os injetores através de uma galeria comum. Esta pressão é controlada de maneira independete às revoluções do motor. 
+
+No gráfico a seguir é possivel apreciar o sinal de voltagem e corrente de uma injetor CRS de uma aplicações em um veículo leve a diesel, detalhando duas pré-injeções e uma injeção principal para um mesmo ciclo de trabalho, quando o motor está a temperatura de operação e a marcha está no ponto morto.
+
+A pressão do combustível, o início e fim de injeção são precisamente calculados pela unidade de comando a partir de informações obtidas dos diversos sensores instalados no motor, o que proporciona excelente desempenho, baixo ruído e uma mínima emissão de gases contaminantes.
+Esse sistema totalmente flexível pode ser instaldo em veículos leves, caminhões e ônibus, representa um enorme potencial para as futuras aplicações em motores a diesel e há décadas tem estado orientado de maneira praticamente exclusiva a este tipo de tecnologia.
